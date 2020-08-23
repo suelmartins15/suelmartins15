@@ -10,7 +10,7 @@ Minhas redes:
   </li>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87161461-f33f8580-c29a-11ea-8686-34eb06e44501.png" width="18" alt="Twitter"> 
-    <a href="https://twitter.com/suelmartins" target="_blank" title="My Twitter">Twitter</a>
+    <a href="https://twitter.com/suelmatins" target="_blank" title="My Twitter">Twitter</a>
   </li>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
