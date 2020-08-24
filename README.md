@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Suel Martins de Oliveira. Desenvolvedor com perfil Full Stack, sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, e MYSQL. Seguidor de Cristo, Marido da Maricele, Pai da Cecília Martins.
+Meu nome é Suel Martins de Oliveira. Desenvolvedor com perfil Full Stack, sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP, MYSQL e WordPress. Seguidor de Cristo, Marido da Maricele, Pai da Cecília Martins.
 
 Minhas redes:
 <ul>
